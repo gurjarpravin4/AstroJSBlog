@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: ../../layouts/MarkDownPostLayout.astro
 title: My Third Blog Post
 author: Pravin
 description: "I had some challenges, but asking in the community really helped!"
