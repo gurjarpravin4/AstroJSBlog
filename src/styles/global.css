@@ -82,3 +82,23 @@ h1 {
     display: none;
   }
 }
+
+/* Dark Theme Style */
+html.dark {
+  background-color: #2A233E;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}
+
+/* Greeting button style */
+.greeting {
+  padding: 15px;
+  background-color: #4c1d95;
+  color: #fff ;
+  border: 0px;
+  border-radius: 10px;
+  font-weight: 600;
+}
